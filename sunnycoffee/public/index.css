@@ -1,0 +1,74 @@
+.mt-10 {
+  margin-top: 10px;
+}
+
+a {
+  font-size: 14px;
+  display: inline-block;
+  color: #000;
+}
+
+body {
+  background: #f4f4f4;
+}
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+button,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  list-style: none outside none;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  /* 去除图片3px间隙 */
+  vertical-align: middle;
+}
+
+/*清除浮动*/
+ .clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.fl {
+  float: left;
+}
+
+

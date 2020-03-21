@@ -1,0 +1,65 @@
+{
+  "id": "1660845",
+  "name": "luckin_coffee",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6773874",
+      "name": "右",
+      "font_class": "you",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "7418932",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "12968000",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "538490",
+      "name": "加载",
+      "font_class": "jiazai",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "5003852",
+      "name": "垃圾",
+      "font_class": "trash",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "12578647",
+      "name": "gouwuche",
+      "font_class": "gouwuche",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "7683244",
+      "name": "左箭头",
+      "font_class": "jiantou-xia",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12280869",
+      "name": "左箭头灰",
+      "font_class": "zuojiantouhui",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    }
+  ]
+}
